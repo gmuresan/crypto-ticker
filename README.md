@@ -14,10 +14,10 @@ Usage (Currency Pair Must Be Traded on Poloniex)
 ------
 ```bash
 npm run start:server -- <BTC/LTC>
-npm run start:server -- <BTC/XPM>>
+npm run start:server -- <BTC/XPM>
 ```
 
-Then open up localhost:3003
+Then open up http://localhost:3003
 
 
 ### Development
